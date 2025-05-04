@@ -1,0 +1,7 @@
+toolhouse==1.4.0
+openai>=1.0.0
+python-dotenv>=0.21.0
+matplotlib>=3.7.0
+plotly>=5.14.0
+dash>=2.10.0
+pymongo>=4.3.0
